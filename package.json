@@ -1,0 +1,29 @@
+{
+	"name": "isurl",
+	"version": "1.0.0",
+	"description": "Validate an url in the terminal.",
+	"license": "MIT",
+	"repository": "peterforgacs/isurl",
+	"author": {
+		"name": "Peter Forgacs",
+		"email": "peter.forgacs3@gmail.com",
+		"url": "peterforgacs.github.io"
+	},
+	"bin": "cli.js",
+	"engines": {
+		"node": ">=4"
+	},
+	"files": [
+		"index.js",
+		"cli.js"
+	],
+	"keywords": [
+		"is-url",
+		"url",
+		"validation",
+		"cli"
+	],
+	"dependencies": {
+		"is-url": "1.2.2"
+	}
+}
