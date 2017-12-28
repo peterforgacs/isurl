@@ -6,13 +6,13 @@
 ## Install
 
 ```
-$ npm install isurl -g
+$ npm install is-url-cli -g
 ```
 
 ## Usage
 
 ```
-$ isurl 'https://github.com/' # true
+$ is-url-cli 'https://github.com/' # true
 ```
 
 ## License

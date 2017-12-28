@@ -1,5 +1,5 @@
 {
-	"name": "isurl",
+	"name": "is-url-cli",
 	"version": "1.0.0",
 	"description": "Validate an url in the terminal.",
 	"license": "MIT",
