@@ -24,6 +24,7 @@
 		"cli"
 	],
 	"dependencies": {
-		"is-url": "1.2.2"
+		"is-url": "1.2.2",
+		"meow": "^4.0.0"
 	}
 }
